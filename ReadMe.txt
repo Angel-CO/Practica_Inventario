@@ -7,7 +7,3 @@
 	Modificar el username y el password (si se tiene MySQL)
 	De ser necesario modificar otros aspectos.
 4. Correr el proyecto
-
-Nota: la funcion de realizar venta y mostrar ventas no estan disponibles aun.
-
-
